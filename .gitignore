@@ -1,0 +1,5 @@
+graphs/
+__pycache__/
+data/
+.vscode/
+papers/
